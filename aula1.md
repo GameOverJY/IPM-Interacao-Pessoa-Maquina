@@ -35,5 +35,3 @@ Foi discutido que **acessibilidade e usabilidade** devem estar alinhadas para at
 - **🆓 Exemplo 3:** Um problema de qualquer outra área (pode ser do dia a dia ou de um sistema) e uma sugestão de melhoria.  
 
 ---
-
-Agora o resumo está mais **estruturado, objetivo e fácil de entender**. O que acha dessa versão? 😊🚀  

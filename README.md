@@ -32,18 +32,32 @@ Essa disciplina é essencial para desenvolver sistemas que sejam eficientes, fá
 > 📢 **Nota:** As aulas ainda estão sendo adicionadas.  
 
 ### 📅 **Lista de Aulas**   
+
 #### 📅 **Fevereiro**   
 ✅ **Aula 1 - [21/02/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula1.md)**  
-✅ **Aula 2 - [28/02/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%202.md)**
+✅ **Aula 2 - [28/02/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%202.md)**  
+
 #### 📅 **Março**   
 ❌ **Aula 3 - 07/03/2025** *(Aguardando link)*  
 ❌ **Aula 4 - 14/03/2025** *(Aguardando link)*  
 ❌ **Aula 5 - 21/03/2025** *(Aguardando link)*  
 ❌ **Aula 6 - 28/03/2025** *(Aguardando link)*  
-#### 📅 **Maio**   
+
+#### 📅 **Abril**   
 ❌ **Aula 7 - 04/04/2025** *(Aguardando link)*  
 ❌ **Aula 8 - 11/04/2025** *(Aguardando link)*  
 ❌ **Aula 9 - 18/04/2025** *(Aguardando link)*  
 ❌ **Aula 10 - 25/04/2025** *(Aguardando link)*  
+
+#### 📅 **Maio**  
+❌ **Aula 11 - 02/05/2025** *(Aguardando link)*  
+❌ **Aula 12 - 09/05/2025** *(Aguardando link)*  
+❌ **Aula 13 - 16/05/2025** *(Aguardando link)*  
+❌ **Aula 14 - 23/05/2025** *(Aguardando link)*  
+❌ **Aula 15 - 30/05/2025** *(Aguardando link)*  
+
+#### 📅 **Junho**  
+❌ **Aula 16 - 06/06/2025** *(Aguardando link)*  
+❌ **Aula 17 - 13/06/2025** *(Aguardando link)*  
 
 ---

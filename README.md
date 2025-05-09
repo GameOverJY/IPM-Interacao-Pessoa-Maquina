@@ -45,19 +45,16 @@ Essa disciplina é essencial para desenvolver sistemas que sejam eficientes, fá
 
 #### 📅 **Abril**   
 ❌ **Aula 7 - 04/04/2025** *(Aguardando link)*  
-❌ **Aula 8 - 11/04/2025** *(Aguardando link)*  
-❌ **Aula 9 - 18/04/2025** *(Aguardando link)*  
-❌ **Aula 10 - 25/04/2025** *(Aguardando link)*  
 
 #### 📅 **Maio**  
-❌ **Aula 11 - 02/05/2025** *(Aguardando link)*  
-❌ **Aula 12 - 09/05/2025** *(Aguardando link)*  
-❌ **Aula 13 - 16/05/2025** *(Aguardando link)*  
-❌ **Aula 14 - 23/05/2025** *(Aguardando link)*  
-❌ **Aula 15 - 30/05/2025** *(Aguardando link)*  
+❌ **Aula 8 - 02/05/2025** *(Aguardando link)*  
+❌ **Aula 9 - 09/05/2025** *(Aguardando link)*  
+❌ **Aula 10 - 16/05/2025** *(Aguardando link)*  
+❌ **Aula 11 - 23/05/2025** *(Aguardando link)*  
+❌ **Aula 12 - 30/05/2025** *(Aguardando link)*  
 
 #### 📅 **Junho**  
-❌ **Aula 16 - 06/06/2025** *(Aguardando link)*  
-❌ **Aula 17 - 13/06/2025** *(Aguardando link)*  
+❌ **Aula 13 - 06/06/2025** *(Aguardando link)*  
+❌ **Aula 14 - 13/06/2025** *(Aguardando link)*  
 
 ---

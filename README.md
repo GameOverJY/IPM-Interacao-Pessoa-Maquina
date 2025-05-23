@@ -51,10 +51,10 @@ Essa disciplina é essencial para desenvolver sistemas que sejam eficientes, fá
 ❌ **Aula 9 - 09/05/2025** *(Aguardando link)*  
 ❌ **Aula 10 - 16/05/2025** *(Aguardando link)*  
 ❌ **Aula 11 - 23/05/2025** *(Aguardando link)*  
-❌ **Aula 12 - 30/05/2025** *(Aguardando link)*  
 
 #### 📅 **Junho**  
-❌ **Aula 13 - 06/06/2025** *(Aguardando link)*  
-❌ **Aula 14 - 13/06/2025** *(Aguardando link)*  
+❌ **Aula 12 - 06/06/2025** *(Aguardando link)*  
+❌ **Aula 13 - 13/06/2025** *(Aguardando link)*  
+❌ **Aula 14 - 17/06/2025** *(Aguardando link)*  
 
 ---

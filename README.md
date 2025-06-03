@@ -53,6 +53,6 @@ Essa disciplina é essencial para desenvolver sistemas que sejam eficientes, fá
 ❌ **Aula 11 - 23/05/2025** *(Aguardando link)*  
 
 #### 📅 **Junho**  
-❌ **Aula 12 - [03/06/2025]([Aguardando link](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula12.md))**  
+❌ **Aula 12 - [03/06/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula12.md)**  
 
 ---

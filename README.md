@@ -50,10 +50,10 @@ Essa disciplina é essencial para desenvolver sistemas que sejam eficientes, fá
 ❌ **Aula 8 - [02/05/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%208.md)**  
 ❌ **Aula 9 - [09/05/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%209.md)**  
 ❌ **Aula 10 - [16/05/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%2010.md)**  
-❌ **Aula 11 - [23/05/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula2011.md)**  
+❌ **Aula 11 - [23/05/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%2011.md)**  
 
 #### 📅 **Junho**  
-❌ **Aula 12 - [03/06/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula2012.md)**  
+❌ **Aula 12 - [03/06/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%2012.md)**  
 ❌ **Aula 13 - [04/06/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%2013.md)**  
 ❌ **Aula 14 - [13/06/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%2014.md)**  
 ❌ **Aula 15 - [16/06/2025](https://github.com/GameOverJY/IPM-Interacao-Pessoa-Maquina/blob/main/aula%2015.md)**  

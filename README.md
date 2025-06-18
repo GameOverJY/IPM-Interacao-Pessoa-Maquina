@@ -29,7 +29,7 @@ Essa disciplina é essencial para desenvolver sistemas que sejam eficientes, fá
 
 ## 📌 Aulas  
 
-> 📢 **Nota:** As aulas ainda estão sendo adicionadas.  
+> 📌 ** Aviso Importante: As aulas da disciplina foram finalizadas com sucesso!**
 
 ### 📅 **Lista de Aulas**   
 

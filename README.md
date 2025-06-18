@@ -3,7 +3,7 @@
 ## 📌 Portfólio
 
 **🎓 Aluno**: Ye Junhao  
-**📧 E-mail**: [a2023124954@isec.pt](mail:a2023124954@isec.pt)  
+**📧 E-mail**: a2023124954@isec.pt
 **📖 Disciplina**: IPM - Interação Pessoa-Máquina  
 **👨‍🏫 Docente**: Prof. João Leal  
 **🏫 Escola**: ISEC - Instituto Superior de Engenharia de Coimbra  

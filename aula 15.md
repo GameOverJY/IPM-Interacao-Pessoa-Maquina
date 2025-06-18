@@ -1,8 +1,12 @@
-## Resumo da Aula
+# 📅 Resumo da Aula - 18/06/2025  
 
-Nesta aula, realizamos as apresentações dos trabalhos finais. No meu caso, apresentei um projeto sobre um **teste de daltonismo**, que continha duas abordagens:
+## 📝 Resumo
 
-1. A primeira foi o teste mais comum, conhecido como **teste de Ishihara**.
-2. A segunda foi uma versão oposta, onde **apenas pessoas daltônicas** conseguiam identificar o número presente nas imagens.
+Na aula de hoje, foram realizadas as apresentações dos trabalhos finais. O meu projeto teve como tema principal um **teste de daltonismo**, no qual explorei duas abordagens complementares:
 
-O objetivo foi mostrar como diferentes formas de percepção visual afetam a interpretação de cores e números.
+1. 🔹 **Teste Tradicional de Ishihara** — utilizado para identificar diferentes tipos de daltonismo, com base em padrões numéricos formados por círculos coloridos.
+2. 🔸 **Versão Invertida do Teste** — criada para que **apenas pessoas daltônicas** consigam visualizar os números apresentados, enquanto pessoas com visão comum não conseguem identificá-los.
+
+## 🎯 Objetivos
+
+O objetivo da apresentação foi demonstrar como diferentes formas de percepção visual influenciam a interpretação de cores e padrões. Além disso, busquei destacar a relevância da **acessibilidade visual** no desenvolvimento de materiais inclusivos e conscientes.

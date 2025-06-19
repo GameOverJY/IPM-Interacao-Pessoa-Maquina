@@ -1,39 +1,38 @@
-# 📌 Resumo da Aula - 02/05/2025
-
-# Resumo
+# 📚 Resumo da Aula
 
 ## 🗂️ Disponibilização dos Dois Últimos Trabalhos
 
-Durante a aula, foram apresentados os dois últimos trabalhos da disciplina. Abaixo está um resumo de cada um, com suas finalidades e o que foi desenvolvido:
+Durante a aula, foram apresentados os dois últimos trabalhos da disciplina. A seguir, um resumo de cada um:
 
 ---
 
 ### 🧪 **IPM3 – Acessibilidade com base nas Diretrizes WCAG**
 
-- **Objetivo**: Avaliar sites a partir das Diretrizes de Acessibilidade para Conteúdo Web (WCAG).
-- **Atividades realizadas**:
+- **Objetivo**: Avaliar páginas web com base nas **Diretrizes de Acessibilidade para Conteúdo Web (WCAG)**.
+- **Atividades desenvolvidas**:
   - Estudo dos quatro princípios da WCAG: **Perceptível, Operável, Compreensível e Robusto**.
-  - Avaliação de páginas com base nos critérios de conformidade (níveis **A**, **AA** e **AAA**).
-  - Elaboração de um relatório com recomendações de melhoria baseadas nas diretrizes estudadas.
+  - Análise de acessibilidade com foco nos níveis de conformidade: **A**, **AA** e **AAA**.
+  - Elaboração de um relatório com observações e sugestões de melhoria para sites analisados.
 
 ---
 
-### 💻 **Projeto Final – Criação de um Site Acessível**
+### 💻 **Projeto Final – Site com Teste de Daltonismo**
 
-- **Objetivo**: Desenvolver um site que seja acessível para pessoas com alguma limitação ou necessidade específica.
-- **Minha escolha**: Criar um site voltado para auxiliar pessoas com **daltonismo**.
-- **Atividades desenvolvidas**:
-  - Realizei um **teste de daltonismo** para compreender os diferentes tipos e desafios enfrentados.
-  - Desenvolvi um site com foco em:
-    - Contrastes adequados;
-    - Uso de formas e símbolos para reforçar informações;
-    - Paleta de cores acessível a diferentes tipos de daltonismo.
-  - Apliquei princípios de acessibilidade aprendidos ao longo do curso e considerados nas diretrizes WCAG.
+- **Objetivo**: Criar um site acessível com foco em ajudar pessoas com alguma limitação.
+- **Meu projeto**: Desenvolvi um site que realiza um **teste de daltonismo**.
+- **Funcionalidades e objetivos**:
+  - O site permite que os usuários identifiquem possíveis tipos de daltonismo através de testes visuais simples.
+  - Utilizei boas práticas de acessibilidade visual para garantir que o conteúdo seja compreensível para todos os usuários.
+  - A interface foi planejada com foco em contraste, formas e navegação acessível.
+- **Ferramentas e aprendizados aplicados**:
+  - Conhecimento adquirido em acessibilidade web ao longo do curso;
+  - Aplicação dos princípios estudados nas WCAG;
+  - Criação de uma ferramenta prática, educativa e acessível.
 
 ---
 
 ## 📌 Observações Finais
 
 - Ambos os trabalhos foram disponibilizados durante a aula.
-- O **IPM3** (trabalho WCAG) e o **projeto final** (site acessível) são componentes importantes para a avaliação final da disciplina.
-- Todas as instruções e materiais de apoio foram disponibilizados na plataforma da disciplina.
+- O **IPM3** (relatório WCAG) e o **projeto final** (site com teste de daltonismo) são partes fundamentais da avaliação final.
+- Todos os materiais de apoio foram disponibilizados na plataforma da disciplina.

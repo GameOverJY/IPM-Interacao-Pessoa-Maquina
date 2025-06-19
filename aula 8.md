@@ -21,13 +21,9 @@ Durante a aula, foram apresentados os dois últimos trabalhos da disciplina. A s
 - **Objetivo**: Criar um site acessível com foco em ajudar pessoas com alguma limitação.
 - **Meu projeto**: Desenvolvi um site que realiza um **teste de daltonismo**.
 - **Funcionalidades e objetivos**:
-  - O site permite que os usuários identifiquem possíveis tipos de daltonismo através de testes visuais simples.
+  - O site permite que os usuários identifiquem possível nível de **daltonism**
   - Utilizei boas práticas de acessibilidade visual para garantir que o conteúdo seja compreensível para todos os usuários.
-  - A interface foi planejada com foco em contraste, formas e navegação acessível.
-- **Ferramentas e aprendizados aplicados**:
-  - Conhecimento adquirido em acessibilidade web ao longo do curso;
-  - Aplicação dos princípios estudados nas WCAG;
-  - Criação de uma ferramenta prática, educativa e acessível.
+  - A interface foi planejada com um foco de fácil acesso e eficaz.
 
 ---
 

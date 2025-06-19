@@ -20,7 +20,7 @@
 
 ---
 
-## ✅ 6. Boas Práticas no Desenvolvimento Web
+## ✅ 3. Boas Práticas no Desenvolvimento Web
 - 📱 **Layouts responsivos**: Compatíveis com diferentes dispositivos e tamanhos de tela.
 - 🗂 **Navegação clara e intuitiva**: Estrutura bem organizada para fácil localização de informações.
 - 🚀 **Otimização de desempenho**: Tempo de carregamento reduzido para melhor experiência do usuário.
